@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+backend/career-agent/
+
+# Node
+node_modules/
+dist/
+
+# Env files (never commit real secrets)
+.env
+.env.local
+
+# Editor/OS
+.DS_Store
+.vscode/
+.idea/
